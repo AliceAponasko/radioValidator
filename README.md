@@ -1,2 +1,2 @@
-# radioValidator
-Radio rules validator for a list of tracks
+# Radio Queue Validator
+Radio rules validator for a given list of tracks
